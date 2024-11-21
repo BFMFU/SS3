@@ -7,7 +7,7 @@ int main() {
     scanf("%f", &edge);
     printf("Nhap chieu cao cua tam giac: ");
     scanf("%f", &height);
-    area = 0.5 *edge*height;
+    area = 0.5*edge*height;
 
     printf("Dien tich cua tam giac la: %.2f\n", area);
 
